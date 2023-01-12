@@ -1,0 +1,9 @@
+{
+  "name": "vanilla-node-rest-api",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "author": "Seacrest",
+  "license": "ISC"
+}
